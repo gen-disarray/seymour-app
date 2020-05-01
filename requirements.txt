@@ -1,6 +1,6 @@
 pandas
 numpy
-geopandas==0.7.0
+geopandas
 os.path
 rasterio
 pyproj
